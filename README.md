@@ -15,7 +15,7 @@ In this repo, I use `[my-app]` as a placeholder for, well... my app's name.
 I use a combination of apps to achieve the best results possible:
 
 - [XCode](https://developer.apple.com/xcode/): Mandatory to code apps for Apple devices
-- [Claude Code](https://claude.com/product/claude-code)
+- [Claude Code](https://claude.com/product/claude-code): For now I'm working mainly with Anthropic's tool but I'll explore more in the future
 - [GitHub](https://github.com): To store all of my projects in git
 - [GitHub Copilot](https://github.com/copilot): Mainly to automatically run tasks from Linear in the background
 - [Linear](https://linear.app): A gorgeous planner and task manager that integrates with multiple tools
