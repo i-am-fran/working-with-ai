@@ -24,6 +24,10 @@ I use a combination of apps to achieve the best results possible:
 
 ---
 
+<<<<<<< HEAD
 ## Useful resources
+=======
+## Other useful resources
+>>>>>>> main
 
 - [Obsidian skills](https://github.com/kepano/obsidian-skills) from Steph Ango
