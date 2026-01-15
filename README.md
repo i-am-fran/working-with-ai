@@ -8,7 +8,7 @@ Use it at your own risk :)
 
 ## Intro
 
-In this repo, I use `[my-app]` as a placeholder for, well... my app's name.
+In this repo, I use `[my-app]` as a placeholder for well... my app's name.
 
 ## Tools
 
@@ -21,3 +21,9 @@ I use a combination of apps to achieve the best results possible:
 - [Linear](https://linear.app): A gorgeous planner and task manager that integrates with multiple tools
 - [iTerm2](https://iterm2.com): A terminal app for macOS with lots of useful features and customisation options
 - [Nova](https://nova.app/): The most beautiful code editor there is!
+
+---
+
+## Other useful resources
+
+- [Obsidian skills](https://github.com/kepano/obsidian-skills) from Steph Ango
